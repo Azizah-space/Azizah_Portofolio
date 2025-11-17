@@ -1,5 +1,21 @@
 # Azizah's Portfolio *(Analytics Projects)*.
 
+## [Project 3: Marketing Performance & Audience Insight Dashboard](https://github.com/Azizah-space/Marketing-Performance-Audience-Insight-Dashboard)
+This analysis evaluates the effectiveness of cross-channel marketing campaigns. The project combines an interactive Power BI dashboard with business insights to aid decision-making regarding budget allocation and channel optimization.
+
+### **📸 Dashboard Overview**
+![Dashboard Preview](https://github.com/Azizah-space/Marketing-Performance-Audience-Insight-Dashboard/blob/main/Overview%20-%20Marketing%20Performance.png)
+
+### 🧩 Stakeholder Insights & Recommendations
+-  **Mana channel paling kuat?** (Executives)<br>
+  = Website & Facebook. Reallocate budget ke channel efisien.
+-  **Kenapa engagement tidak sejalan dengan konversi?** (Campaign Managers)<br>
+  = Funnel lemah di tengah. Perkuat CTA, retargeting, dan landing page.
+- **Segmen terbaik?** (Audience Team)<br>
+  = Pria 18–24 & French language. Prioritaskan targeting ke segmen ini.
+- **Bagaimana menurunkan CPA?** (Finance)<br>
+  = Paid ads mahal. Optimalkan targeting & evaluasi biaya wilayah.
+
 ## [Project 2: Cosmetics Sales Analysis 2022](https://github.com/Azizah-space/sales-report)
 This project analyzes cosmetics sales data (2022) including revenue, products, countries, boxes shipped, and salesperson performance. It combines interactive dashboard using Power BI with business insights to support decision-making.
 
